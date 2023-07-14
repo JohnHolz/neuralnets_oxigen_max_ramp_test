@@ -1,0 +1,2 @@
+model_checkpoint_path: "R3convlayer"
+all_model_checkpoint_paths: "R3convlayer"

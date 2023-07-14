@@ -1,0 +1,12 @@
+*/*.png
+ruidos
+images
+*/*.npz
+*.npz
+data
+old_data
+csvs
+*.ipynb_checkpoints/
+
+## Force not ignore
+!gen_data/*
