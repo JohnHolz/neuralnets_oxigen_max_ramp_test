@@ -28,7 +28,7 @@ My thesis is about models that are used in ramp test to evaluate if the Volume o
 
 # Early Results
 
-## 1. Convolutional neural network
+## 1. Convolutional neural network: Image as input
 
                      precision    recall  f1-score   support
                  0       0.94      0.97      0.96      1280
@@ -39,7 +39,7 @@ My thesis is about models that are used in ramp test to evaluate if the Volume o
       [[1238   42]
        [  74  246]]
 
-## 2. Recurrent neural network
+## 2. Recurrent neural network: Sequence as input
 
                precision    recall  f1-score   support
             0       0.98      0.96      0.97      1200
